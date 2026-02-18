@@ -1,0 +1,511 @@
+[
+    {
+        "Product Name": "Indian Tomato (Tamatar)",
+        "Product ID": "UM0LWC92NJ",
+        "Product Price": 38.0,
+        "Product quantity": "500 g x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/054e83b5ebe789cf4b7b146319df4cfc",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f00e32194bcd76550c7e3dc1fe2e4ac4"
+        ],
+        "Discount percentage": 24,
+        "Product Mrp": 50.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "WHITE & GOLD 555 PRIME Playing Cards",
+        "Product ID": "4Z15HANWGN",
+        "Product Price": 49.0,
+        "Product quantity": "1 pack",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/16/3fc91a67-ce72-4250-9e8f-d9631873b6e2_751273_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/16/f60e6816-76db-4245-8444-dd7e3eb6ffbd_751273_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/16/916e93a1-9c50-48a0-9f0f-a2df7c003e02_751273_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/16/2a384716-ebe9-45a6-95e6-6fb6d1fa8281_751273_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/16/b2ccaf23-f3f6-43e9-ac1c-9656eca7f173_751273_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/16/600ad6d7-8222-4730-8945-a4d36b9a8b14_751273_6.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/16/4e43ff34-3328-444d-b92a-d7e31bd36ab9_751273_7.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/16/adb658fd-3b5f-4d34-89e8-a3607199de98_751273_8.png"
+        ],
+        "Discount percentage": 16,
+        "Product Mrp": 59.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Nescafe Cafe Style Cold Coffee, Iced Latte",
+        "Product ID": "M6KU67LVYP",
+        "Product Price": 138.0,
+        "Product quantity": "170 ml x 3",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
+        ],
+        "Discount percentage": 8,
+        "Product Mrp": 150.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Nescafe Cafe Style Cold Coffee, Iced Latte",
+        "Product ID": "G2XDNNRM86",
+        "Product Price": 89.0,
+        "Product quantity": "170 ml x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
+        ],
+        "Discount percentage": 11,
+        "Product Mrp": 100.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Nescafe Cafe Style Cold Coffee, Iced Latte",
+        "Product ID": "O2AGNFDN88",
+        "Product Price": 47.0,
+        "Product quantity": "170 ml",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/17/7b8a1549-5c1b-421d-8410-68a9d9b982c9_TKUVNU3W03_MN_16122025.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
+        ],
+        "Discount percentage": 6,
+        "Product Mrp": 50.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Coriander Leaves without root",
+        "Product ID": "I4WRFTFYKW",
+        "Product Price": 10.0,
+        "Product quantity": "1 Bunch",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/1/21/b6aaa4a1-7478-4d58-90cd-d60827750079_Coriander_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/1/21/d3099672-9324-42ea-9a4c-cce28fe17c81_Coriander_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/1/21/f301fe6c-eb05-4ea7-aa34-1dca93f45a7a_Coriander_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/1/21/5f37b733-eafc-4212-9d48-a7f7ef84b9b1_Coriander_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/1/22/b05a32fa-3d79-4434-85d8-b381c793ebc9_Coriander.png"
+        ],
+        "Discount percentage": 23,
+        "Product Mrp": 13.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Chakaachak High-quality Materials Dustpan (Orange)",
+        "Product ID": "V7V9501893",
+        "Product Price": 45.0,
+        "Product quantity": "1 Piece",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/8/4/05928ade-8bb9-470f-a49b-a47e3d6d5a29_22187_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/8/4/c204def6-5b4c-48cb-9909-63be4352044e_22187_2.jpg",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/8/4/7231262b-8c13-45e6-9b37-a35f6095480d_22187_3.jpg",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/8/4/20a05567-427a-497f-a982-48ffb3224644_22187_1.jpg",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/11/8/08202b62-d39a-4e97-a22b-f10dd2b5a9ac_22187_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/8/4/2a4da4e0-b237-421b-8aac-55fe46f44fa4_22187_5.png"
+        ],
+        "Discount percentage": 43,
+        "Product Mrp": 80.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Schweppes Original Ginger Ale Soda (Can)2pieces",
+        "Product ID": "7JR2RVD86B",
+        "Product Price": 116.0,
+        "Product quantity": "300 ml x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/11/28/df8647db-2d63-4b26-8c27-ebac985b2479_495.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/sn2uzrrmjovgwycquhnr",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cbrbmqcqdp7cprqqfcwx"
+        ],
+        "Discount percentage": 3,
+        "Product Mrp": 120.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Sunfeast Dark Fantasy Vanilla Cream",
+        "Product ID": "KTY3KU1TC5",
+        "Product Price": 151.0,
+        "Product quantity": "237 g x 3",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f0b93cb0-9acf-484c-a5c8-e0d24830fbdc_15430_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/5a884e09-5bf4-4a17-9731-e2a95fd5f831_15430_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/1d7b211c-ef9f-4e6e-99a8-05fc80a4fa90_15430_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f7fc97eb-fd3a-4528-9e41-0183ee366458_15430_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/bc636841-5c96-4940-84bf-b951e563f392_15430_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f03fbd1e-0b6a-4cb1-8118-72552fe46797_15430_6.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f84cce85-ad0c-4512-b75e-4a65b3681e91_15430_7.png"
+        ],
+        "Discount percentage": 42,
+        "Product Mrp": 264.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Sunfeast Dark Fantasy Vanilla Cream",
+        "Product ID": "DZ4RHQ79JU",
+        "Product Price": 104.0,
+        "Product quantity": "237 g x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f0b93cb0-9acf-484c-a5c8-e0d24830fbdc_15430_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/5a884e09-5bf4-4a17-9731-e2a95fd5f831_15430_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/1d7b211c-ef9f-4e6e-99a8-05fc80a4fa90_15430_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f7fc97eb-fd3a-4528-9e41-0183ee366458_15430_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/bc636841-5c96-4940-84bf-b951e563f392_15430_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f03fbd1e-0b6a-4cb1-8118-72552fe46797_15430_6.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f84cce85-ad0c-4512-b75e-4a65b3681e91_15430_7.png"
+        ],
+        "Discount percentage": 40,
+        "Product Mrp": 176.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Sunfeast Dark Fantasy Vanilla Cream",
+        "Product ID": "NT4G6L0A07",
+        "Product Price": 52.0,
+        "Product quantity": "237 g",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/18/0c2bd26b-842d-4308-aa86-95e6aa3c7157_HVO3J3K0L3_MN_17122025.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/5a884e09-5bf4-4a17-9731-e2a95fd5f831_15430_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/1d7b211c-ef9f-4e6e-99a8-05fc80a4fa90_15430_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f7fc97eb-fd3a-4528-9e41-0183ee366458_15430_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/bc636841-5c96-4940-84bf-b951e563f392_15430_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f03fbd1e-0b6a-4cb1-8118-72552fe46797_15430_6.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/10/f84cce85-ad0c-4512-b75e-4a65b3681e91_15430_7.png"
+        ],
+        "Discount percentage": 40,
+        "Product Mrp": 88.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "NVR Evil Eye Crystal Elasticated Bracelet Unisex Onesize",
+        "Product ID": "XF4VTIJJP3",
+        "Product Price": 912.0,
+        "Product quantity": "1 Piece",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/6/17/12e9eb01-20c1-4fac-942b-fa301b8c08aa_186561_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/6/17/7eaad647-c769-4f39-956b-05f8e4158026_186561_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/6/17/8bcb6184-ac3c-4644-8a27-94431355fce4_186561_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/6/17/520d16e0-7726-43a1-8b20-97aaea44527d_186561_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/6/17/c426e76d-2b69-440a-8384-22bb4a6e944a_186561_5.png"
+        ],
+        "Discount percentage": 8,
+        "Product Mrp": 999.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Coca-Cola Zero Soft drink Pet Bottle",
+        "Product ID": "RQ6RW0LYB7",
+        "Product Price": 115.0,
+        "Product quantity": "750 ml x 4",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/11/28/758ac3e2-534a-4e9c-9b55-b8c81fb6adf5_19384.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/mpgdi4cwdt2kkxlbuobe",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ramlzjtod82k5cegmu9l"
+        ],
+        "Discount percentage": 28,
+        "Product Mrp": 160.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Coca-Cola Zero Soft drink Pet Bottle",
+        "Product ID": "271OA741MJ",
+        "Product Price": 86.0,
+        "Product quantity": "750 ml x 3",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/11/28/758ac3e2-534a-4e9c-9b55-b8c81fb6adf5_19384.png"
+        ],
+        "Discount percentage": 28,
+        "Product Mrp": 120.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Coca-Cola Zero Soft drink Pet Bottle",
+        "Product ID": "QFJX3J83OG",
+        "Product Price": 59.0,
+        "Product quantity": "750 ml x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/11/28/758ac3e2-534a-4e9c-9b55-b8c81fb6adf5_19384.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/mpgdi4cwdt2kkxlbuobe",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ramlzjtod82k5cegmu9l"
+        ],
+        "Discount percentage": 26,
+        "Product Mrp": 80.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Coca-Cola Zero Soft drink Pet Bottle",
+        "Product ID": "K1H2RAGY9Q",
+        "Product Price": 36.0,
+        "Product quantity": "750 ml",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/11/28/758ac3e2-534a-4e9c-9b55-b8c81fb6adf5_19384.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/mpgdi4cwdt2kkxlbuobe",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ramlzjtod82k5cegmu9l"
+        ],
+        "Discount percentage": 10,
+        "Product Mrp": 40.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Bingo Original Style Chilli Sprinkled Potato Chips",
+        "Product ID": "4WCW5JFVXJ",
+        "Product Price": 74.0,
+        "Product quantity": "85 g x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/17/be0dd314-4605-45bb-80a1-2e508e2bf8b3_H3BMVGUT77_MN_17122025.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/d97cc072-51d1-4c0c-8c43-1ec7f08fd1d4_15290_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/eb299764-6e34-45d6-b5ca-1a8a01db9b04_3750_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/448ab7e9-45b0-4af7-9186-f95ea23c79c1_15290_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/cee293ab-5383-4c5f-867d-c1f3a1504935_3750_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/588c7bd1-183a-429d-aa64-c1715452e1ed_3750_6.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/737ade6a-7017-42c2-bab5-0ac20a00feaa_15290_7.png"
+        ],
+        "Discount percentage": 26,
+        "Product Mrp": 100.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Bingo Original Style Chilli Sprinkled Potato Chips",
+        "Product ID": "C0GJW4C3GW",
+        "Product Price": 37.0,
+        "Product quantity": "85 g",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/17/be0dd314-4605-45bb-80a1-2e508e2bf8b3_H3BMVGUT77_MN_17122025.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/d97cc072-51d1-4c0c-8c43-1ec7f08fd1d4_15290_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/eb299764-6e34-45d6-b5ca-1a8a01db9b04_3750_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/448ab7e9-45b0-4af7-9186-f95ea23c79c1_15290_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/cee293ab-5383-4c5f-867d-c1f3a1504935_3750_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/588c7bd1-183a-429d-aa64-c1715452e1ed_3750_6.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/10/1/737ade6a-7017-42c2-bab5-0ac20a00feaa_15290_7.png"
+        ],
+        "Discount percentage": 26,
+        "Product Mrp": 50.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Supreme Harvest Suji Rawa (Semolina)",
+        "Product ID": "242QHXB39D",
+        "Product Price": 64.0,
+        "Product quantity": "500 g x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/7/12/154b4995-43f7-4272-ba3e-b6cffd508b14_attaandotherflours_7STCJSUN65_MN.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h6yoxs1mzjhyn9z84iro",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/saibedutdopuykjkl02k"
+        ],
+        "Discount percentage": 36,
+        "Product Mrp": 100.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Supreme Harvest Suji Rawa (Semolina)",
+        "Product ID": "RQR93CAGV6",
+        "Product Price": 32.0,
+        "Product quantity": "500 g",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/16/4cb5dc61-7c55-4718-a84b-a0b6297557c2_7STCJSUN65_MN_16122025.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h6yoxs1mzjhyn9z84iro",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/saibedutdopuykjkl02k"
+        ],
+        "Discount percentage": 36,
+        "Product Mrp": 50.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Premium Kinnow Orange (Santra)",
+        "Product ID": "0LRF9HI88S",
+        "Product Price": 96.0,
+        "Product quantity": "3 Pieces x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/11/20/99d907f9-3c19-4ade-ba1f-1000016bb55e_MD34XI61J2_MN_20112025.jpg",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/6ef72fb4c604a1e4bbae4fba849b3d78",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5402be708f4a0a956f8429ee332d5f0b"
+        ],
+        "Discount percentage": 21,
+        "Product Mrp": 122.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Premium Kinnow Orange (Santra)",
+        "Product ID": "1HDZ5QFBSG",
+        "Product Price": 49.0,
+        "Product quantity": "3 Pieces",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/12/2/cb66dabc-6892-4425-b086-900b5043a450_2168_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/12/2/487dd7a9-5ff3-42f6-95a2-8ed3e934014e_2168_3.png"
+        ],
+        "Discount percentage": 19,
+        "Product Mrp": 61.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Supreme Harvest Whole Wheat Atta",
+        "Product ID": "M1UXH1Z6F3",
+        "Product Price": 193.0,
+        "Product quantity": "5 kg",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/16/1042a1df-8b14-4bd9-a4c5-8ef1f62b4193_S47JK5WYYG_MN_15122025.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/12/16/f0721f94-200d-46e3-b4b9-15c427afc257_15558_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/12/16/b96b1ed3-4817-4368-8fc2-b3064efbfb82_15558_3.png"
+        ],
+        "Discount percentage": 22,
+        "Product Mrp": 250.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Paper Boat Chikki Family Pack",
+        "Product ID": "N74SXYJAZ3",
+        "Product Price": 119.0,
+        "Product quantity": "96 g x 3",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/68e3968ff39a2d7350fd2d30610e26c2",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/d88c08be01c2a9114399c0f2364cae2f",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f8d9a83bdc74172a50342aede3aa5a62"
+        ],
+        "Discount percentage": 5,
+        "Product Mrp": 126.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Paper Boat Chikki Family Pack",
+        "Product ID": "50XYZH0CJ2",
+        "Product Price": 80.0,
+        "Product quantity": "96 g x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/68e3968ff39a2d7350fd2d30610e26c2",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/d88c08be01c2a9114399c0f2364cae2f",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f8d9a83bdc74172a50342aede3aa5a62"
+        ],
+        "Discount percentage": 4,
+        "Product Mrp": 84.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Paper Boat Chikki Family Pack",
+        "Product ID": "5WHVQ93Q6V",
+        "Product Price": 41.0,
+        "Product quantity": "96 g",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2026/2/11/f04eaa1d-0137-4869-825a-d4fdf369cf52_CFPXGGA7UU_MN_11022026.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/d88c08be01c2a9114399c0f2364cae2f",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f8d9a83bdc74172a50342aede3aa5a62"
+        ],
+        "Discount percentage": 2,
+        "Product Mrp": 42.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Classmate Octane Ball Pens | Blue Ink | Pack of 5",
+        "Product ID": "VW49AIZ15O",
+        "Product Price": 46.0,
+        "Product quantity": "5 pieces",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/11/8/96dd1d28-d246-4e27-aedd-5f996838705d_6007_1.jpg",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/11/8/2af49969-6037-4f08-be1c-a98a8f042ea8_6007_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/11/8/e94603f7-251e-462f-8011-2cdd75ded17e_6007_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/11/8/6e196014-430d-401f-92f5-cb0bdb32652c_6007_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/11/8/e5d0a22e-4a54-4541-b0e2-4dd15dff2f0d_6007_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/11/8/2ef9a5d2-8d36-4328-8133-0e57a8c6f1c6_6007_6.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/11/8/2623eecc-6699-4e2a-a5a2-5636ea30a713_6007_7.jpg"
+        ],
+        "Discount percentage": 8,
+        "Product Mrp": 50.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Hammer Airflow Plus In-Ear Truly Wireless Earbuds With Mic, 23 Hours Playtime, Sound Isolation, IPX4, Bluetooth v5.1 (Green)",
+        "Product ID": "H2384MV3L8",
+        "Product Price": 621.0,
+        "Product quantity": "1 unit",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/7/25/1abd8cd0-d5b0-434f-9f85-5b59b1f9fbe9_53UAG2RD0A.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1195e85adb23284b65c9a075026ff639",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/6aa69d1c3c3851a5eb860f060bb2628d",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/025c3ba96d2faed4992426c4521dc3da",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b6b67d570401a459c9856efd620f7e5a",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/34f81b99ebd1d285430456d63efbd28a",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/665d5140-a65c-40ce-b7dc-4db6901b4c55_80930.png"
+        ],
+        "Discount percentage": 87,
+        "Product Mrp": 4999.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Hammer 3.25A Fast Charging 1.5 m Type C to Type C Charging Cable, 65 Watts 480 Mbps (Blue)",
+        "Product ID": "M188HHQSIB",
+        "Product Price": 129.0,
+        "Product quantity": "1 unit",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/6/25/e78929ac-3167-4cee-9ad3-2d3fe9d76824_ElectronicsandWearables_F9CVZLQCC7_MN.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/5/22/54ae74b7-9715-4a6d-9dcf-81540e65a567_ElectronicsandWearables_F9CVZLQCC7_AL1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/5/22/6952e375-c2ab-469e-aab6-0282a0705340_ElectronicsandWearables_F9CVZLQCC7_AL2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/5/22/2a3142d9-2086-41ff-b20e-57b038538c63_ElectronicsandWearables_F9CVZLQCC7_AL3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/5/22/753c8f05-bbb2-4afb-b6a9-c7d887ca2844_ElectronicsandWearables_F9CVZLQCC7_AL4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/5/22/b4fac765-8173-4d9a-b82c-bfc585879fce_ElectronicsandWearables_F9CVZLQCC7_AL5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/665d5140-a65c-40ce-b7dc-4db6901b4c55_80930.png"
+        ],
+        "Discount percentage": 87,
+        "Product Mrp": 999.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Knorr Pizza & Pasta Sauce",
+        "Product ID": "NTPHLLAOIB",
+        "Product Price": 56.0,
+        "Product quantity": "200 g",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/2/12/b971f68e-62e6-4f4e-8ad0-c960fa3983ce_14932_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/2/12/dbfcba3f-245e-4ff0-8a84-648ddd022fec_14932_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/2/12/92925fe1-13ca-4296-ae1f-e4ea46dbc3e0_14932_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/2/12/3f10a683-c80b-4f26-9f26-80abd25eaee0_14932_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/2/12/15b5d0a2-7b71-4831-90d5-c559b2232791_14932_5.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/2/12/3040210e-8c05-4773-9125-c7c1511e14d4_14932_6.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/2/12/3844b20c-4fec-4ecd-b951-d57e551931f9_14932_7.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2026/2/12/2ac7e71a-6692-4d5b-b825-dbfd5dba2889_14932_8.png"
+        ],
+        "Discount percentage": 6,
+        "Product Mrp": 60.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Amul Pure Ghee Carton Pack",
+        "Product ID": "0PZTO22C3V",
+        "Product Price": 307.0,
+        "Product quantity": "500 ml",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ypsgqzenpbdf8re1d8o6"
+        ],
+        "Discount percentage": 1,
+        "Product Mrp": 310.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Fortune Sugar",
+        "Product ID": "L8C6UP72GN",
+        "Product Price": 117.0,
+        "Product quantity": "1 kg x 2",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/25917134-3883-46cf-b82c-0a284431beb9_18286_1.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/4d0c1e9b-ef05-4cca-a151-1767b360348f_18286_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/eedcc509-7d4a-4558-a638-676e71596e8c_18286_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/fdbcac17-a76b-4444-a177-81d6ccf9f35d_18286_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/79ec17cf-a94b-4976-9fe5-bffb03e54242_18286_5.png"
+        ],
+        "Discount percentage": 22,
+        "Product Mrp": 150.0,
+        "Product In Stock": true
+    },
+    {
+        "Product Name": "Fortune Sugar",
+        "Product ID": "1YFRJ7QOVV",
+        "Product Price": 59.0,
+        "Product quantity": "1 kg",
+        "Product Image Url": [
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/18/19ae34d5-1d66-482b-a42b-b24143c1d44a_V34QW1RPLX_MN_18122025.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/4d0c1e9b-ef05-4cca-a151-1767b360348f_18286_2.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/eedcc509-7d4a-4558-a638-676e71596e8c_18286_3.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/fdbcac17-a76b-4444-a177-81d6ccf9f35d_18286_4.png",
+            "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/9/23/79ec17cf-a94b-4976-9fe5-bffb03e54242_18286_5.png"
+        ],
+        "Discount percentage": 21,
+        "Product Mrp": 75.0,
+        "Product In Stock": true
+    }
+]
